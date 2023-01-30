@@ -1,0 +1,226 @@
+[
+  {
+    "id": 0,
+    "title": "Wyeth Print Gallery",
+    "subtitle": "Website Design and Development(eCommerce)",
+    "filename": "wyeth-print-gallery.jpg",
+    "location": null,
+    "source": {
+      "name": "Wyeth Print Gallery",
+      "url": "https://wyethprintgallery.com"
+    },
+    "description": {
+      "name": "I did everything on this project from design to development. I carefully chose the typography and colors to meet the needs of the client. The site is built on wordpress and this is a custom theme that I built based on my design. There are a number of custom functions including a custom featured WooCommerce product rotation that changes everytime the page loads. And different users levels based on tax exemption and dealership relationship with the company."
+    }
+  },
+  {
+    "id": 1,
+    "title": "Tally Ho Coffee",
+    "subtitle": "eCommerce, Design and Development",
+    "filename": "tally-ho.jpg",
+    "location": null,
+    "source": {
+      "name": "Tally Ho Coffee",
+      "url": "https://tallyhocoffee.com"
+    },
+    "description": {
+      "name": "I built this custom WordPress theme from scratch based on my design layout. Mobile menu uses a JQuery slide toggle function. And shopping cart is updated with AJAX calls."
+    }
+  },
+  {
+    "id": 2,
+    "title": "Jonah's Art",
+    "subtitle": "eCommerce, Design & Develpment",
+    "filename": "jonahs-art.jpg",
+    "location": null,
+    "source": {
+      "name": "Jonah's Art",
+      "url": "http://sheehanweb.com/jonahsart/"
+    },
+    "description": {
+      "name": "This fun little eCommerce store I built for my son who is a very talented little artist. He uses the iPad to make vector sketches and we sell them for his college fund."
+    }
+  },
+  {
+    "id": 3,
+    "title": "WooCommerce Plugin",
+    "subtitle": "Plugin Development",
+    "filename": "woocommerce.jpg",
+    "location": null,
+    "source": {
+      "name": "WooCommerce Plugin",
+      "url": "https://github.com/jocean12/WooCommerce-Product-Manager.git"
+    },
+    "description": {
+      "name": "This plugin allows the user to bulk import products to WooCommerce with a CSV file. It is compatible with simple products as well as variable products. It also allows for easy stock keeping with the Product Manager tool. Tested on Wordpress 4.6.1 and WooCommerce 2.6.4."
+    }
+  },
+  {
+    "id": 4,
+    "title": "Dick Perez: Sports Artist",
+    "subtitle": "eCommerce Development",
+    "filename": "dick-perez.jpg",
+    "location": null,
+    "source": {
+      "name": "Dick Perez: Sports Artist",
+      "url": "https://dickperez.com"
+    },
+    "description": {
+      "name": "This massive eCommerce website was built based on the Artist’s layout design concept. The client wanted hundreds of products added to his store, so I built a custom plugin for WooCommerce that allows for multiple product uploads based on a csv file."
+    }
+  },
+  {
+    "id": 5,
+    "title": "PennEngineering",
+    "subtitle": "Development Collaboration",
+    "filename": "penn-engineering.jpg",
+    "location": null,
+    "source": {
+      "name": "PennEngineering",
+      "url": "https://www.pemnet.com/"
+    },
+    "description": {
+      "name": "This was a development collaboration using git with a co-worker.  This was a massive undertaking.  We took an old html site with thousands of pages and turned it into a custom dynamic WordPress theme. We moved all the pages over to WordPress and set up 301 Redirects."
+    }
+  },
+  {
+    "id": 6,
+    "title": "brilliant :",
+    "subtitle": "Re-Branding Design and Development",
+    "filename": "brilliant-graphics.jpg",
+    "location": null,
+    "source": {
+      "name": "brilliant :",
+      "url": "https://brilliant-graphics.com"
+    },
+    "description": {
+      "name": "The branding and design concept was created by Pentagram and I took an old WordPress site and moved it over to a new design.  I custom coded the new theme with custom functions and hooks.  This site utilizes ACF for the blog pages making really easy for anyone to enter news."
+    }
+  },
+  {
+    "id": 7,
+    "title": "Stan Miller: Artist",
+    "subtitle": "Design and Development",
+    "filename": "stan-miller.jpg",
+    "location": null,
+    "source": {
+      "name": "Stan Miller's website",
+      "url": "http://stanmiller.net"
+    },
+    "description": {
+      "name": "his is a website for a phenomenal artist based in the Seattle area.  The artists wanted the ability to be able to edit the website himself so I used plugins for the galleries and a simple blog for his workshops page."
+    }
+  },
+  {
+    "id": 8,
+    "title": "Lacy Foundries",
+    "subtitle": "Design and Development",
+    "filename": "lacy-foundries.jpg",
+    "location": null,
+    "source": {
+      "name": "Lacy Foundries",
+      "url": "http://lacyfoundries.com/"
+    },
+    "description": {
+      "name": "This is a custom WordPress theme that I built for this foundry.  Pretty straightforward and a pleasure to work with these guys.  I also created their company logo for them as a part of the service."
+    }
+  },
+  {
+    "id": 9,
+    "title": "Peifer Welding",
+    "subtitle": "Design and Development",
+    "filename": "peifer-welding.jpg",
+    "location": null,
+    "source": {
+      "name": "Peifer Welding",
+      "url": "https://www.peiferwelding.com/"
+    },
+    "description": {
+      "name": "Another straight forward custom WordPress theme for a welding/waterjet company."
+    }
+  },
+  {
+    "id": 10,
+    "title": "Zacros America",
+    "subtitle": "Develpment Conversion",
+    "filename": "zacros.jpg",
+    "location": null,
+    "source": {
+      "name": "Zacros America",
+      "url": "http://www.zacrosamerica.com/home/"
+    },
+    "description": {
+      "name": "This website I converted from an unsupported installation of Drupal to a modern WordPress install.  Custom programming for the news ticker."
+    }
+  },
+  {
+    "id": 11,
+    "title": "FLSmidth",
+    "subtitle": "Development",
+    "filename": "flsmidth.jpg",
+    "location": null,
+    "source": {
+      "name": "FLSmidth",
+      "url": "http://www.conveyorspneumatic.com/"
+    },
+    "description": {
+      "name": "Another Industry website that required multi-lingual support.  This is also a Custom WordPress theme based on the company branding guidelines and design."
+    }
+  },
+  {
+    "id": 12,
+    "title": "SEO Plugin for Wordpress",
+    "subtitle": "Plugin Development",
+    "filename": "seo.jpg",
+    "location": null,
+    "source": {
+      "name": "SEO Plugin for Wordpress on Github",
+      "url": "https://github.com/jocean12/SEO-Opengraph-plugin.git"
+    },
+    "description": {
+      "name": "This plugin adds meta information to the head of your WordPress site.  Included in the meta info is a custom meta description, Open Graph tags and a twitter card.  Each tag can be controlled through the admin meta box on the individual pages or posts.  Also, the image that is shared can be specified or auto generated by the first image that's on the page.  If no Image is specified and there is no image on the page you can set a fallback image in the main settings page."
+    }
+  },
+  {
+    "id": 13,
+    "title": "Linda Harris Reynolds: Artist",
+    "subtitle": "Design and Development",
+    "filename": "linda-harris-reynolds.jpg",
+    "location": null,
+    "source": {
+      "name": "Linda Harris Reynolds website",
+      "url": "http://lindaharrisreynolds.com/"
+    },
+    "description": {
+      "name": "This is a custom WordPress theme that I built based on my own design concept.  The client was very thrilled with the end result and adds to the classes and events regularly herself."
+    }
+  },
+  {
+    "id": 14,
+    "title": "RTDTrack",
+    "subtitle": "Design and Development",
+    "filename": "rtdtrack.jpg",
+    "location": null,
+    "source": {
+      "name": "RTDTrack",
+      "url": "https://rtdtrack.com/"
+    },
+    "description": {
+      "name": "This is a custom Bootstrap WordPress theme utilizing advanced css animations and transitions. I also did the logo design for this company."
+    }
+  },
+  {
+    "id": 15,
+    "title": "Bodhi Tree",
+    "subtitle": "Learning Management Design and Development",
+    "filename": "bodhitree.jpg",
+    "location": null,
+    "source": {
+      "name": "Bodhi Tree",
+      "url": "https://bodhitree.com"
+    },
+    "description": {
+      "name": "I built this custom theme from design templates made by Chayka Sofia, an LA based design team. It’s a robust Learning Management System, where users can sign up and subscribe to learning tools.  It has a lot of custom programmed features."
+    }
+  }
+]
