@@ -18,7 +18,14 @@
               <a href="https://partnercomm.net" target="_blank">PARTNERCOMM</a>, April 2021-Present
             </li>
             <ul>
-              <li></li>
+              <li>Develop and maintain complex WordPress-based websites and applications</li>
+              <li>Work with a team of project managers, designers, developers and other stakeholders throughout the development life cycle (planning, building, testing, deploying, maintaining) to plan the best technical solutions to problems and execute development</li>
+              <li>Maintain, troubleshoot and enhance existing websites</li>
+              <li>Code review and provide feedback on the work of other developers</li>
+              <li>Improve internal tools and coding practices</li>
+              <li>Daily use of Vue.js, SASS and PHP</li>
+              <li>Daily use of Git and Github</li>
+              <li>Experience writing custom WordPress plug-ins and API integrations</li>
             </ul>
           </ul>
           <ul>
@@ -306,6 +313,11 @@
         </ul>
         <h2>{ education }</h2>
         <section>
+          <h2>Udemy</h2>
+          <p>
+            <strong>Vue 3 Courses</strong>, Online, April 2022-Present
+            <br />Taking online classes in Vue.js version 3.
+          </p>
           <h2>Stanford University</h2>
           <p>
             <strong>Computer Science</strong>, Online, June 2017-Present
