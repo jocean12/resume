@@ -14,11 +14,13 @@
       </ul>
     </div>
     <router-view />
-    <div class=social-icons><a href=https://www.linkedin.com/in/joe-sheehan-12662a6b/><i
-      class="fab fa-linkedin-in"></i></a> <a href=https://github.com/jocean12><i
-      class="fab fa-github"></i></a> <a href=https://www.instagram.com/jocean12/><i
-      class="fab fa-instagram"></i></a> <a href=https://soundcloud.com/joe-sheehan13><i
-      class="fab fa-soundcloud"></i></a></div>
+    <div class=social-icons>
+      <a href="http://itunes.apple.com/album/id/1570963076" target="_blank"><i class="fab fa-apple"></i></a>
+      <a href="https://open.spotify.com/album/6u6hDlFlgoXvmxldPVkKeO" target="_blank"><i class="fab fa-spotify"></i></a>
+      <a href="https://www.linkedin.com/in/joe-sheehan-12662a6b/"  target="_blank"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://github.com/jocean12" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.instagram.com/jocean12/" target="_blank"><i class="fab fa-instagram"></i></a>
+    </div>
   </div>
 </template>
 
