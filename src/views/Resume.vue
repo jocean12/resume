@@ -15,7 +15,7 @@
           <ul>
             <li>
               <strong>FULL STACK DEVELOPER</strong>,
-              <a href="https://partnercomm.net" target="_blank">PARTNERCOMM</a>, April 2021-Present
+              <a href="https://partnercomm.net" target="_blank">PARTNERCOMM</a>, April 2022-Present
             </li>
             <ul>
               <li>Develop and maintain complex WordPress-based websites and applications</li>
@@ -31,7 +31,7 @@
           <ul>
             <li>
               <strong>DIRECTOR OF WEB DEVELOPMENT AND MARKETING</strong>,
-              <a href="https://www.brilliant-graphics.com" target="_blank">BRILLIANT</a>, February 2020 - April 2021
+              <a href="https://www.brilliant-graphics.com" target="_blank">BRILLIANT</a>, February 2020 - April 2022
             </li>
             <ul>
               <li>Identify and lead technology initiatives to increase effectiveness and efficiency</li>
