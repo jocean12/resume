@@ -12,7 +12,7 @@
       <div class="ghost-table margin-minus-logo center">
         <div class="ghost-center">
           <div class="profile">
-            <img src="../img/profile.jpg" alt="Joe Sheehan Profile Picture" />
+            <img src="../img/profile-2024.jpg" alt="Joe Sheehan Profile Picture" />
           </div>
           <h1>Joe Sheehan</h1>
           <p class="max-800">
