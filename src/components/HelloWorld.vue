@@ -16,7 +16,7 @@
           </div>
           <h1>Joe Sheehan</h1>
           <p class="max-800">
-            Hi and welcome to my website. I’m a Web Designer and Developer with a passion to learn new technologies and languages. I’m lucky because my work is also one of my passions. I love solving new problems and finding new ways to solve old problems. I enjoy managing teams and seeing projects go from concept to completion.  Along with developing and programming I enjoy surfing, photography and spending time with my amazing wife and children.
+            With 14 years of experience as a full stack developer, I possess a versatile skill set covering front-end and back-end technologies. I excel in designing and developing web applications, utilizing a deep understanding of programming languages and frameworks to deliver scalable solutions. Experienced in leading projects and collaborating with cross-functional teams, I stay updated with industry trends to deliver cutting-edge solutions.
           </p>
         </div>
       </div>
