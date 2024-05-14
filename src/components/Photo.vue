@@ -15,6 +15,7 @@
         </p>
         <a v-on:click="previousSlide" id="previous-button"><i class="fas fa-angle-left"></i></a>
         <a v-on:click="nextSlide" id="next-button"><i class="fas fa-angle-right"></i></a>
+        <a v-on:click="closeLightbox" id="close-button"><i class="fas fa-times"></i></a>
       </div>
     </div>
   </div>
@@ -66,6 +67,14 @@
   .gallery-panel img {
     display:block;
   }
+  #close-button {
+    color: #ffffff;
+    position: absolute;
+    top: 35px;
+    right:25px;
+    font-size: 40px;
+    cursor:pointer;
+  }
   /* -----------phone media query----------- */
 @media only screen and (max-width: 512px) {
   .gallery {
@@ -89,6 +98,9 @@
   }
   #next-button, #previous-button {
     top:10px;
+  }
+  #close-button {
+    top:15px;
   }
   #previous-button {
     left:calc(50% - 60px);
@@ -125,7 +137,7 @@ import photos from '@/photos.json'; export default {
         return photo.id === Number(this.$route.params.id)
       })
       var minusOne = photoID.id - 1
-      if (photoID.id !== 0) {
+      if (photoID.id !== -8) {
         // alert('photo id does not equal 0')
         this.$router.push('/photo/' + minusOne)
       } else {
