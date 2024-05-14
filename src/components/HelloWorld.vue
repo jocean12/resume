@@ -16,7 +16,7 @@
           </div>
           <h1>Joe Sheehan</h1>
           <p class="max-800">
-            With 14 years of experience as a full stack developer, I possess a versatile skill set covering front-end and back-end technologies. I excel in designing and developing web applications, utilizing a deep understanding of programming languages and frameworks to deliver scalable solutions. Experienced in leading projects and collaborating with cross-functional teams, I stay updated with industry trends to deliver cutting-edge solutions.
+            With 14 years of experience as a Web/App Developer, I possess a versatile skill set covering front-end and back-end technologies. I excel in designing and developing web applications, utilizing a deep understanding of programming languages and frameworks to deliver scalable solutions. Experienced in leading projects and collaborating with cross-functional teams, I stay updated with industry trends to deliver cutting-edge solutions.
           </p>
         </div>
       </div>
