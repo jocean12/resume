@@ -137,7 +137,7 @@ import photos from '@/photos.json'; export default {
         return photo.id === Number(this.$route.params.id)
       })
       var minusOne = photoID.id - 1
-      if (photoID.id !== -8) {
+      if (photoID.id !== 0) {
         // alert('photo id does not equal 0')
         this.$router.push('/photo/' + minusOne)
       } else {
