@@ -14,8 +14,26 @@
         <section>
           <ul>
             <li>
+              <strong>FREELANCE DEVELOPER</strong>,
+              February 2024 - Present
+            </li>
+            <ul>
+              <li>Front-end Development with Vue.js: Developed dynamic, responsive, and interactive single-page applications (SPAs) using Vue.js, leveraging Vue Router, Vuex, and Vuetify.</li>
+              <li>WordPress Theme & Plugin Development: Created custom WordPress themes and plugins from scratch, integrating advanced functionalities and ensuring full compatibility with WordPress core updates.</li>
+              <li>API Integration: Connected Vue.js front-ends with WordPress back-ends using RESTful APIs, facilitating seamless data exchange between client and server.</li>
+              <li>Performance Optimization: Optimized WordPress websites and Vue.js applications for faster load times and better SEO, implementing lazy loading, caching, and minification techniques.</li>
+              <li>Headless WordPress Implementation: Built decoupled architectures using WordPress as a headless CMS, with Vue.js for the front-end, improving flexibility and performance.</li>
+              <li>Custom Post Types & Fields: Extended WordPress functionality with advanced custom fields (ACF) and custom post types, creating tailored content management experiences.</li>
+              <li>Responsive & Mobile-First Design: Developed Vue.js applications and WordPress sites with a focus on responsive and mobile-first design, ensuring cross-browser and device compatibility.</li>
+              <li>Version Control (Git): Used Git for version control and collaboration, maintaining clean and organized codebases for both Vue.js and WordPress projects.</li>
+              <li>Client Communication & Project Management: Managed client projects from concept to deployment, maintaining regular communication, setting clear deliverables, and meeting deadlines.</li>
+              <li>Maintenance & Support: Provided ongoing maintenance and support for WordPress and Vue.js projects, ensuring security updates, bug fixes, and feature enhancements.</li>
+            </ul>
+          </ul>
+          <ul>
+            <li>
               <strong>FULL STACK DEVELOPER</strong>,
-              <a href="https://partnercomm.net" target="_blank">PARTNERCOMM</a>, April 2022-Present
+              <a href="https://partnercomm.net" target="_blank">PARTNERCOMM</a>, April 2022 - February 2024
             </li>
             <ul>
               <li>Develop and maintain complex WordPress-based websites and applications</li>
@@ -318,9 +336,13 @@
             <strong>Vue 3 Courses</strong>, Online, April 2022-Present
             <br />Taking online classes in Vue.js version 3.
           </p>
+          <p>
+            <strong>React Courses</strong>, Online, February 2024-Present
+            <br />Taking online classes in React.
+          </p>
           <h2>Stanford University</h2>
           <p>
-            <strong>Computer Science</strong>, Online, June 2017-Present
+            <strong>Computer Science</strong>, Online, June 2017 - October 2021
             <br />Taking online classes in Object Oriented Programing and Swift.
           </p>
           <h2>Conservatory of Recording Arts and Sciences</h2>
