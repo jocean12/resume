@@ -6,6 +6,7 @@ import Resume from '../views/Resume.vue'
 import portfolio from '../views/portfolio.vue'
 import Contact from '../views/Contact.vue'
 import Photo from '../views/Photo.vue'
+import PrivacyPolicy from '../views/PrivacyPolicy.vue'
 
 Vue.use(VueRouter)
 
@@ -46,6 +47,14 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: Contact
+  },
+  {
+    path: '/privacy-policy',
+    name: 'Privacy Policy',
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: PrivacyPolicy
   },
   {
     path: '/photo/:id',
