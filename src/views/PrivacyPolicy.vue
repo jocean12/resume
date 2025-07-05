@@ -31,7 +31,7 @@
     <p>Since we don't collect or store any information, there's nothing for you to manage or delete. Your data stays on your device, fully in your control.</p>
 
     <h2>Contact</h2>
-    <p>If you have any questions about this privacy policy, you can reach out to us at: <a href="mailto:support@airsynth.app">support@airsynth.app</a></p>
+    <p>If you have any questions about this privacy policy, you can reach out to us at: <a href="mailto:joe@sheehanweb.com">joe@sheehanweb.com</a></p>
   </div>
         </section>
       </div>

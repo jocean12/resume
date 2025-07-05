@@ -1,6 +1,34 @@
 [
   {
     "id": 0,
+    "title": "airSynth",
+    "subtitle": "App Design and Development",
+    "filename": "airsynth.png",
+    "location": null,
+    "source": {
+      "name": "airSynth iOS App",
+      "url": "https://apps.apple.com/us/app/airsynthesizer/id6747094230"
+    },
+    "description": {
+      "name": "I did everything on this project, from designing the UI to the backend of the synth module.  This app detects hand motion in front of the camera and plays a pitch, the closer your hand is to the camera the higher the pitch the farther away the lower the pitch.  It also comes with audio effects and hooks up to a DAW via MIDI.  This project runs on iOS specifically iPad and iPhone.  It can be downloaded from the App Store by clicking the link below."
+    }
+  },
+  {
+    "id": 1,
+    "title": "McKlean Packaging",
+    "subtitle": "Website Design and Development",
+    "filename": "mclean.jpg",
+    "location": null,
+    "source": {
+      "name": "McLean Packaging",
+      "url": "https://mcleanpackaging.com/"
+    },
+    "description": {
+      "name": "This unique site uses Cosmic.js as the CMS and Vue.js and Vuetify as the frontend.  I did all the coding on this site, design, photography and videography. I integrated open graph for SEO and social sharing.  I also integrated HubSpot with the contact submission form.  This client was a pleasure to work with and were very happy with the results."
+    }
+  },
+  {
+    "id": 2,
     "title": "Wyeth Print Gallery",
     "subtitle": "Website Design and Development(eCommerce)",
     "filename": "wyeth-print-gallery.jpg",
@@ -14,7 +42,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "Tally Ho Coffee",
     "subtitle": "eCommerce, Design and Development",
     "filename": "tally-ho.jpg",
@@ -28,7 +56,7 @@
     }
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Jonah's Art",
     "subtitle": "eCommerce, Design & Develpment",
     "filename": "jonahs-art.jpg",
@@ -42,7 +70,7 @@
     }
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "WooCommerce Plugin",
     "subtitle": "Plugin Development",
     "filename": "woocommerce.jpg",
@@ -56,7 +84,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Dick Perez: Sports Artist",
     "subtitle": "eCommerce Development",
     "filename": "dick-perez.jpg",
@@ -66,11 +94,11 @@
       "url": "https://dickperez.com"
     },
     "description": {
-      "name": "This massive eCommerce website was built based on the Artist’s layout design concept. The client wanted hundreds of products added to his store, so I built a custom plugin for WooCommerce that allows for multiple product uploads based on a csv file."
+      "name": "This massive eCommerce website was built based on the Artist's layout design concept. The client wanted hundreds of products added to his store, so I built a custom plugin for WooCommerce that allows for multiple product uploads based on a csv file."
     }
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "PennEngineering",
     "subtitle": "Development Collaboration",
     "filename": "penn-engineering.jpg",
@@ -84,7 +112,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "brilliant :",
     "subtitle": "Re-Branding Design and Development",
     "filename": "brilliant-graphics.jpg",
@@ -98,7 +126,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Stan Miller: Artist",
     "subtitle": "Design and Development",
     "filename": "stan-miller.jpg",
@@ -112,7 +140,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "Lacy Foundries",
     "subtitle": "Design and Development",
     "filename": "lacy-foundries.jpg",
@@ -126,7 +154,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "Peifer Welding",
     "subtitle": "Design and Development",
     "filename": "peifer-welding.jpg",
@@ -140,7 +168,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "Zacros America",
     "subtitle": "Develpment Conversion",
     "filename": "zacros.jpg",
@@ -154,7 +182,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "FLSmidth",
     "subtitle": "Development",
     "filename": "flsmidth.jpg",
@@ -168,7 +196,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "SEO Plugin for Wordpress",
     "subtitle": "Plugin Development",
     "filename": "seo.jpg",
@@ -182,7 +210,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Linda Harris Reynolds: Artist",
     "subtitle": "Design and Development",
     "filename": "linda-harris-reynolds.jpg",
@@ -196,7 +224,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "RTDTrack",
     "subtitle": "Design and Development",
     "filename": "rtdtrack.jpg",
@@ -210,7 +238,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Bodhi Tree",
     "subtitle": "Learning Management Design and Development",
     "filename": "bodhitree.jpg",
@@ -220,7 +248,7 @@
       "url": "https://bodhitree.com"
     },
     "description": {
-      "name": "I built this custom theme from design templates made by Chayka Sofia, an LA based design team. It’s a robust Learning Management System, where users can sign up and subscribe to learning tools.  It has a lot of custom programmed features."
+      "name": "I built this custom theme from design templates made by Chayka Sofia, an LA based design team. It's a robust Learning Management System, where users can sign up and subscribe to learning tools.  It has a lot of custom programmed features."
     }
   }
 ]
