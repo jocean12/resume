@@ -12,6 +12,20 @@
       <div class="resume">
         <h2>{ employment }</h2>
         <section>
+           <ul>
+            <li>
+              <strong>IT Support Specialist</strong>,
+              <a href="https://www.inhanceutilities.com/" target="_blank">inHance (Harris)</a>,April 2025 - Present
+            </li>
+            <ul>
+              <li>Resolved P1 and P0 technical issues within first contact, reducing ticket escalation and improving user satisfaction</li>
+              <li>Diagnosed and repaired hardware failures, software conflicts, and network connectivity issues across Windows, Mac, and mobile platforms</li>
+              <li>Provided remote and on-site technical support for 150+ end users, maintaining 99% system uptime and minimizing business interruptions</li>
+              <li>Troubleshot complex application errors, system crashes, and performance issues using advanced diagnostic tools and methodologies</li>
+              <li>Performed root cause analysis on recurring technical problems, implementing preventive measures that reduced repeat incidents by 40%</li>
+              <li>Create AI-powered solutions to automate routine tasks and improve efficiency and provide real world solutions to complex issues</li>
+            </ul>
+          </ul>
           <ul>
             <li>
               <strong>FREELANCE DEVELOPER</strong>,
@@ -25,9 +39,9 @@
               <li>Headless WordPress Implementation: Built decoupled architectures using WordPress as a headless CMS, with Vue.js for the front-end, improving flexibility and performance.</li>
               <li>Custom Post Types & Fields: Extended WordPress functionality with advanced custom fields (ACF) and custom post types, creating tailored content management experiences.</li>
               <li>Responsive & Mobile-First Design: Developed Vue.js applications and WordPress sites with a focus on responsive and mobile-first design, ensuring cross-browser and device compatibility.</li>
-              <li>Version Control (Git): Used Git for version control and collaboration, maintaining clean and organized codebases for both Vue.js and WordPress projects.</li>
-              <li>Client Communication & Project Management: Managed client projects from concept to deployment, maintaining regular communication, setting clear deliverables, and meeting deadlines.</li>
-              <li>Maintenance & Support: Provided ongoing maintenance and support for WordPress and Vue.js projects, ensuring security updates, bug fixes, and feature enhancements.</li>
+              <li>iOS App Development with Swift & SwiftUI: Developed polished, responsive, and performant native iOS applications using Swift and SwiftUI, leveraging state management, data binding, and modern declarative UI patterns.</li>
+              <li>App Store Publishing: Managed the full app submission lifecycle on the Apple App Store, including provisioning profiles, code signing, App Store Connect configuration, and compliance with Apple's review guidelines.</li>
+              <li>Custom UI Components: Built reusable, fully custom SwiftUI components and views, creating tailored user experiences aligned with Human Interface Guidelines (HIG).</li>
             </ul>
           </ul>
           <ul>
